@@ -1,0 +1,59 @@
+*{
+    padding-top: 1%;
+    padding-bottom: 7px;
+}
+body{
+    background:linear-gradient(85deg,rgb(189, 242, 180),rgb(184, 184, 108));
+    linear-gradient(120deg,#72bbf0, #8e44ad);
+    
+}
+h2{
+
+    color: rgb(253, 72, 12);
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 250px;
+}
+button{
+    width: 150px;
+    height: 55px;
+}
+
+button{
+    padding: 15px;
+    align-items: center;
+    text-transform: uppercase;
+    margin-left: 25px;
+    font-weight: bolder;
+    font-size: large;
+    color:black;
+   
+    border-radius: 15px;
+    transition:  0.5s;
+    background: transparent;
+}
+button:hover{
+    background-position: 0% 0%;
+    transform:scale(1.1);
+    border: radius 10px; 
+    color: azure;
+    background-color: black;
+    /* background: linear-gradient(15deg,rgb(245, 134, 152),rgb(120, 194, 221)); */
+    
+}
+.sunil{
+    padding-left: 80px;
+}
+span{
+    color: beige;
+    text-align: center;
+}
+.game{
+    color: red;
+    background-color: black;
+    color: rgb(253, 72, 12);
+    background-color: black;
+    margin-left: 100px;
+    margin-right: 250px;
+}
+
